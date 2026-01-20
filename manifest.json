@@ -1,0 +1,11 @@
+{
+  "capsule_name": "shopify-quantum-vault",
+  "version": "1.0.0",
+  "role": "e-commerce-automation",
+  "layers": {
+    "AX": "workflows/",
+    "UX": "themes/",
+    "DX": "logs/"
+  },
+  "dependencies": ["shopify-cli", "node-lts"]
+}
