@@ -1,0 +1,9 @@
+{
+  "local_path": "~/WealthBridge/Console/Storage/shopify-quantum-vault",
+  "google_drive_target": "My Drive/WealthBridge_OS/Storage/shopify-quantum-vault/",
+  "backup_frequency": "Daily",
+  "linked_repos": {
+    "execution": "wealthbridge-shopify-quantum",
+    "intelligence": "wealthbridge-intel-hub"
+  }
+}
